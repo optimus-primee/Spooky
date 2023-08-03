@@ -1,0 +1,19 @@
+<div className="flex flex-col items-center mt-12">
+            <img className="" src={spooky} />
+            <p className="w-[400px] font-mplus text-white text-[16px] text-center">
+              Spooky Koalas Family is a collection of 3,033 unique Families
+              living on the Solana Blockchain.{" "}
+            </p>
+            <div className="mt-7">
+              <Button
+                buttonText="Go Minting!"
+                width="130px"
+                backgroundColor="#EE0661"
+                height="38px"
+                borderRadius="8px"
+                fontSize="12px"
+              ></Button>
+            </div>
+          </div>
+          className="absolute -right-14 top-6"
+          className="absolute -left-8 top-[114px]"
